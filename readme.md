@@ -1,4 +1,4 @@
-# Hammer _for Laravel_
+# Hammer _for Laravel Forge_
 
 ## Introduction
 
