@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a CLI tool to connect to your [Forge](forge.laravel.com) servers. 
+This is a CLI tool for your [Forge](forge.laravel.com) servers. 
 It is heavily inspired by [forge-connect](https://github.com/LKDevelopment/forge-connect) and uses [Blacksmith](https://github.com/mpociot/blacksmith) to connect to [Forge](forge.laravel.com)
 
 ## Installation
